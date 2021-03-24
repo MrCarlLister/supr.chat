@@ -1,7 +1,10 @@
 # Supr.chat
+## Getting started
 Create a ./src/firebase-config.js using ./src/firebase-config.example.js
 
--> [Firebase](https://firebase.google.com/)
+Useful links
+* [Firebase](https://firebase.google.com/)
+* [Tailwindcss](https://tailwindcss.com/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
